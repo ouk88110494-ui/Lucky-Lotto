@@ -1,0 +1,7 @@
+{
+  "name": "幸運抽獎機",
+  "description": "專業活動與尾牙抽獎APP，支援Excel名單匯入匯出、自訂獎項、擬真號碼球箱抽獎與中獎大螢幕展示",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
